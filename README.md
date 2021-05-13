@@ -1,11 +1,11 @@
-#Discord bot template in Typescript with Node.js
+# Discord bot template in Typescript with Node.js
 
-###Requirements:
+### Requirements:
 
 - node 10 or newer
 - npm
 
-##How to run it:
+## How to run it:
 
 1. Replace <BOT_TOKEN> with your bot token
 2. Install dependencies:
@@ -16,7 +16,7 @@
 ```npm run bot```
 5. Modify the bot at your needs :)
 
-##Docs
+## Docs
 Eris library for discord API:
 
 https://abal.moe/Eris/docs/getting-started
